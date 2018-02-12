@@ -25,8 +25,8 @@ The goals / steps of this project are the following:
 [image4]: ./output_images/perspective_transform.png "Warp Example"
 [image5]: ./output_images/find_lane_lines.png "Fit Visual"
 [image6]: ./output_images/fitted_lane.png "fitted"
-[image7]: ./output_images/reusult.png "result"
-[video1]: ./project_video.mp4 "Video"
+[image7]: ./output_images/result.png "result"
+[video1]: ./project_video_result.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
